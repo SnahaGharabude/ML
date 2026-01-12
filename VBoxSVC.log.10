@@ -1,0 +1,109 @@
+00:00:00.001645 main     VirtualBox COM Server 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:00.001647 main     Log opened 2025-11-17T05:23:35.872710200Z
+00:00:00.001647 main     Build Type: release
+00:00:00.001651 main     OS Product: Windows 11
+00:00:00.001651 main     OS Release: 10.0.26100
+00:00:00.001652 main     OS Service Pack: 
+00:00:00.015356 main     DMI Product Name: HP Pro Tower 280 G9 E PCI Desktop PC
+00:00:00.021805 main     DMI Product Version:  
+00:00:00.021809 main     Firmware type: UEFI
+00:00:00.022053 main     Secure Boot: Enabled
+00:00:00.022060 main     Host RAM: 16070MB (15.6GB) total, 10436MB (10.1GB) available
+00:00:00.022063 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.022063 main     Process ID: 16676
+00:00:00.022063 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.022065 main     Windows Features:
+00:00:00.022065 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.073101          VirtualBox: object creation starts
+00:00:00.073289          Home directory: 'C:\Users\klebc\.VirtualBox'
+00:00:00.073410          Installed Drivers:
+00:00:00.077812          Loading settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.078579          usbLibGetDevices: Starting USB device enumeration
+00:00:00.086743          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&231bf709&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.087926          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.087974          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb85c)
+00:00:00.109649          HostDnsMonitor: initializing
+00:00:00.115234          HostDnsMonitor: updating information
+00:00:00.115248          HostDnsMonitor: old information
+00:00:00.115249            no server entries
+00:00:00.115249            no domain set
+00:00:00.115249            no search string entries
+00:00:00.115250          HostDnsMonitor: new information
+00:00:00.115250            server 1: 192.168.111.1
+00:00:00.115250            no domain set
+00:00:00.115250            no search string entries
+00:00:00.120276          VD: VDInit finished with VINF_SUCCESS
+00:00:00.121243          Platform architecture set to 'x86'
+00:00:00.121514          Loading settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox" with version "1.19-windows"
+00:00:00.121686          Platform architecture set to 'x86'
+00:00:00.122295          VirtualBox: object created
+00:00:00.195057          Saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.198050          Finished saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml"
+00:00:00.198173          Saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.200519          Finished saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml"
+00:00:00.200638          Saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.202184          Finished saving settings file "C:\Users\klebc\.VirtualBox\VirtualBox.xml"
+00:00:00.597658          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:00.660517          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Saved)}, preserve=false aResultDetail=0
+00:00:06.050377          Platform architecture set to 'x86'
+00:00:06.052584          Saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox" with version "1.19-windows"
+00:00:06.054701          Finished saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox"
+00:00:06.082998          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.092679          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:08.462895          Launched VM: 1277603744 pid: 15812 (0x3dc4) frontend: GUI/Qt name: FEDORA
+00:00:08.480226          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:08.492409          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:12.739487          Platform architecture set to 'x86'
+00:00:12.796663          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:12.798885          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:13.150054          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:13.183219          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:13.708121          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:13.712050          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:13.718891          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.729457          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.856865          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:14.279629          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:14.279900          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:14.280151          HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:14.280180          HostDnsMonitorProxy::GetNameServers:
+00:00:14.280184            name server 1: 192.168.111.1
+00:00:14.280205          HostDnsMonitorProxy::GetSearchStrings:
+00:00:14.280208            no search string entries
+00:00:14.290090          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:14.308667          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:14.320760          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:32.657111          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:32.663761          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:00:32.663957          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:43.061256          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:43.066782          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:43.073115          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:45.434946 dns-monitor HostDnsMonitor: updating information
+00:00:45.434963 dns-monitor HostDnsMonitor: unchanged
+00:00:56.466096          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:56.471182          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:00:56.471833          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:00.022123          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:00.039297          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:00.060305          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Saving)}, preserve=false aResultDetail=0
+00:01:00.538083          Saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox" with version "1.19-windows"
+00:01:00.540485          Finished saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox"
+00:01:00.545629          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:00.550932          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:00.579421          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:00.581565          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:00.595529 SaveState Saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox" with version "1.19-windows"
+00:01:00.603134 SaveState Finished saving settings file "C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vbox"
+00:01:00.604047          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Saved)}, preserve=false aResultDetail=0
+00:01:00.608420          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:01:00.610123          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:00.628443          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Saved)}, preserve=false aResultDetail=0
+00:01:02.045495          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:02.049422          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Saved)}, preserve=false aResultDetail=0
+00:01:07.955552 main     VirtualBox: object deletion starts
+00:01:07.955638 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\klebc\VirtualBox VMs\FEDORA\FEDORA.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:07.957717 main     HostDnsMonitor: shutting down ...
+00:01:07.957805 main     HostDnsMonitor: shut down
+00:01:07.961227 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:07.961706 main     VirtualBox: object deleted
